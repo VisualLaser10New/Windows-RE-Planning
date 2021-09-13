@@ -235,8 +235,8 @@ int main(){
 				
 			break;
 			
-			case 2://guida
-			printf("With this software you can edit system design and properties, than otherwise you cannot change.\n");
+			case 2://guide
+			printf("Visual Laser 10 New\n\nWith this software you can edit system design and properties, than otherwise you cannot change.\n");
 			printf("At main menu enter 1, then type one of these code to start.\n\n");
 			printf("Last digit of each code (NOT to be put among brackets) if it\'s 1 enable else if it\'s 0 disable:\n\n");
 			printf("Immersive floating search 1111(1)\nIncrease Taskbar Transparency Level 1112(1)\nApps use Light Theme 1113(1)\nEnable Windows Trasparency 1114(1)\n");

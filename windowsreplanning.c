@@ -248,4 +248,5 @@ int main(){
 		}
 		system("cls");
 	}while(menu<=2);
+	return 0;
 }
